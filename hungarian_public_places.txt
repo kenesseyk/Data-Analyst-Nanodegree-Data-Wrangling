@@ -1,0 +1,36 @@
+﻿árok: Budapest XII. Diós árok
+átjáró: Budapest XX. Csepeli átjáró
+dűlő: Budapest XI. Kőérberki dűlő
+dűlőút: Budapest XI. Kőérpataki dűlőút
+erdősor: Budapest XIX. Alsó erdősor
+fasor: Budapest VII. Városligeti fasor
+forduló: Budapest XII. Vadász forduló
+gát: Budapest XI. Kopaszi gát
+határsor: Budapest XI. Kelenvölgyi határsor
+határút: Budapest XVI. Rákospalotai határút
+kapu: Miskolc, Győri kapu
+körönd: Budapest VI. Kodály körönd
+körtér: Budapest XI. Móricz Zsigmond körtér
+körút: Budapest VII. Erzsébet körút
+köz: Budapest VI. Anker köz
+lakótelep: Abda, Radnóti lakótelep
+lejáró: Budapest XXI. Duna lejáró
+lejtő: Budapest XII. Hunyad lejtő
+lépcső: Budapest II. Rókushegyi lépcső
+liget: Budapest II. Mechwart liget
+mélyút: Budapest I. Tündérlaki mélyút
+orom: Budapest XII. Hunyad orom
+ösvény: Budapest XII. Orgona ösvény
+park: Budapest XIII. Szent István park
+part: Budapest III. Római part
+pincesor: Enying, Öreghegy pincesor
+rakpart: Budapest II. Bem rakpart
+sétány: Budapest XIII. Gyöngyösi sétány
+sikátor: Békéscsaba, Kereki sikátor
+sor: Budapest IV. Szilaspatak sor
+sugárút: Budapest XVII. Szabadság sugárút
+tér: Budapest V. Vörösmarty tér
+udvar: Budapest XI. Ormay udvar
+út: Budapest VIII. Rákóczi út
+utca: Budapest V. Kossuth Lajos utca
+üdülőpart: Budapest III. Kossuth Lajos üdülőpart
